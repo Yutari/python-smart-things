@@ -1,1 +1,2 @@
-Sexy subtitle name matcher.
+Sexy subtitle name matcher.  
+a.mkv b.smi -> a.mkv a.smi
